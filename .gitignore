@@ -1,4 +1,6 @@
 tmp/todo.txt
 tmp/testgitignore.txt
+tmp/*
+toto.txt
 *.txt
 tata.txt
